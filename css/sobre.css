@@ -29,3 +29,16 @@
     justify-content: space-evenly;
     margin-bottom: 1rem;
 }
+
+
+@media screen and (min-width: 768px) {
+    .sobre__imagem {
+        display: block;
+        margin-left: auto;
+        margin-right: auto; 
+    }
+    .sobre__texto {
+        text-align: center;
+    }
+    
+}
