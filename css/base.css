@@ -1,6 +1,6 @@
 :root {
     --branco: #FFF;
-    --azul-claro: #DFE3E5;
+    --cinza-claro: #f0f0f0;
     --vermelho-forte: #B72E2E;
     --cinza-escuro: #4F4C4C;
     --claro: #F7F4F4;
@@ -41,8 +41,10 @@ body {
 }
 
 @media screen and (min-width: 1024px) {
+
     .container {
         padding-left: calc((100% - 940px)/2);
         padding-right: calc((100% - 940px)/2);
     }
+    
 }

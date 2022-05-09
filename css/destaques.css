@@ -33,12 +33,18 @@
 .destaques__botao{
     color: var(--vermelho-forte);
     border-color: var(--vermelho-forte);
-
+    
     margin: 0 auto;
 }
+
 @media screen and (min-width: 768px) {
     .destaques__botao {
         width: 550spx;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .destaques__botao {
+        width: 550px;
     }
 }
 
