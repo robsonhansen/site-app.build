@@ -28,6 +28,9 @@
     line-height: 3;
 }
 
+.rodape__logo{
+    width: 200px;
+}
 
 .rodape__link {
     display: inline-block;
